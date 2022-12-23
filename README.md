@@ -11,15 +11,15 @@
 
 ## Prerequisites
 
-* Install [Node.js](https://nodejs.org/en/download/)
+-   Install [Node.js](https://nodejs.org/en/download/)
 
-* Install TypeScript
+-   Install TypeScript
 
 ```bash
 npm install -g typescript
 ```
 
-* Install Yarn (optional)
+-   Install Yarn (optional)
 
 If you want to roll with npm, feel free to do so. If you'd like to try Yarn, run the following or [another installation method](https://yarnpkg.com/lang/en/docs/install/):
 
